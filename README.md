@@ -1,16 +1,31 @@
-## Hi there 👋
+# 👋 Welcome(a)! Eu sou Kerveny SN (TheYnevrekDev)
 
-<!--
-**Kervenysn/Kervenysn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📖 Lc 1:37 || 1Ts 5:18 ❤️‍🔥
+🎓 Estudante de Sistemas de Informação  
+👨‍💻 Desenvolvedor Front-end & Designer Gráfico  
+💡 Transformando ideias em interfaces criativas  
+🚀 Em constante aprendizado, buscando evoluir a cada linha de código  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💼 Tecnologias que estou aprendendo e usando:
+- HTML, CSS, JavaScript, PythoN e outras linguagens em aprendizado
+- Design Gráfico (Photoshop, Canva, etc.)
+
+---
+
+### 📌 Projetos em destaque:
+- Nutri IA – Assistente de nutrição com IA (em desenvolvimento)
+- 🔗 https://github.com/Kervenysn/nutri-ia
+- EM BREVE +NOVOS PROJETOS
+
+---
+
+### 💬 Fale comigo:
+- ✉️ Email: kervenysn@gmail.com
+- 📷 Instagram: @kervenysn
+- 🔗 LinkedIn: EM CRIAÇÃO
+
+---
+
+_☕ “Código é poesia, design é alma.”_
