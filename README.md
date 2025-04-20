@@ -22,7 +22,7 @@
 ---
 
 ### 💬 Fale comigo:
-- ✉📧📩📬 Email: kervenysn@gmail.com
+- ✉ Email: kervenysn@gmail.com
 - 📷 Instagram: @kervenysn
 - 🔗 LinkedIn: EM CRIAÇÃO
 
