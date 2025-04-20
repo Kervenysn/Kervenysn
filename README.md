@@ -1,10 +1,10 @@
 # 👋 Welcome(a)! Eu sou Kerveny SN (TheYnevrekDev)
 
-📖 Lc 1:37 || 1Ts 5:18 ❤️‍🔥
-🎓 Estudante de Sistemas de Informação  
-👨‍💻 Desenvolvedor Front-end & Designer Gráfico  
-💡 Transformando ideias em interfaces criativas  
-🚀 Em constante aprendizado, buscando evoluir a cada linha de código  
+| 📖 Lc 1:37 • 1Ts 5:18 ❤️‍🔥
+| 🎓 Estudante de Sistemas de Informação
+| 👨‍💻 Desenvolvedor Front-end & Designer Gráfico
+| 💡 Transformando ideias em interfaces criativas
+| 🚀 Em constante aprendizado, buscando evoluir a cada linha de código
 
 ---
 
