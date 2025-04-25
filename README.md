@@ -1,4 +1,4 @@
-# 👋 Welcome(a)! Eu sou Kerveny SN (TheYnevrekDev)
+# 👋 Welcome(a)! Eu sou Kerveny SN (TheYnevrek)
 
 | 📖 Lc 1:37 • 1Ts 5:18 ❤️‍🔥
 | 🎓 Estudante de Sistemas de Informação
