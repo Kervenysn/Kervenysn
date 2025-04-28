@@ -17,7 +17,6 @@
 ### 📌 Projetos em destaque:
 - Nutri IA – Assistente de nutrição com IA (em desenvolvimento)
 - 🔗 https://github.com/Kervenysn/nutri-ia
-- 🔗 https://github.com/Kervenysn/Kervenysn-Site_Jamili_Vitoria-The_Lingerie_Loft
 - 🚨 EM BREVE +PROJETOS NOVOS!
 
 ---
