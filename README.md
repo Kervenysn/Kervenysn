@@ -1,4 +1,4 @@
-# 👋 Welcome(a)! Eu sou Kerveny SN (TheYnevrek)
+# 👋 Welcome(a)! Eu sou Kerveny Sousa (DevKervenySousa)
 
 | 📖 Lc 1:37 • 1Ts 5:18 ❤️‍🔥
 | 🌐 Information Systems
